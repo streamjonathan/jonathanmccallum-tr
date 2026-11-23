@@ -1,51 +1,118 @@
 ---
-title: "Privacy"
+title: "Gizlilik"
 slug: privacy
 original_url: https://jonathanmccallum.com/privacy/
 ---
 
-# Privacy
+# Gizlilik
 
-This site is run by Jonathan McCallum. It is a small personal site: writing, and a chat that answers from that writing. There are no accounts, no tracking, no advertising, and nothing for sale.
+Bu site, İspanya'nın Getaria kentinde yaşayan Jonathan McCallum tarafından işletiliyor. Küçük bir kişisel site: yazılar ve bu yazılardan cevap veren bir sohbet. Burada hesap açmak yok, takip yok, reklam yok ve satılık hiçbir şey yok. Dünyanın neresinde olursan ol, tüm ziyaretçiler için Avrupa gizlilik hukukuna (GDPR) uyuyor.
 
 Bu sayfadaki herhangi bir şey ya da kişisel verilerin hakkında sormak istersen, Jonathan'a <a href="#" data-contact-email data-contact-email-text>Bana e-posta gönder</a> adresinden yaz. Ona [Instagram](https://www.instagram.com/jonamccallum) ya da [Threads](https://www.threads.com/@jonamccallum) üzerinden de mesaj gönderebilirsin.
 
-## The chat: "Interact with Jonathan's writing"
+## Verilerinden kim sorumlu
 
-When you type a question, it is sent to Cloudflare — the company that hosts this site — so its AI can look through Jonathan's published writing and draft an answer. The answer comes only from his writing, with a link to the post it came from.
+Jonathan McCallum bu sitenin veri sorumlusudur. Yani neyin toplandığına ve neden toplandığına o karar verir. Bir şirket değil ve veri koruma görevlisi yok — böyle küçük bir kişisel sitenin buna ihtiyacı yok.
 
-- The site does not store your questions.
-- The chat is not Jonathan. It is an AI, and it can get things wrong.
-- Cloudflare is a US company, so your question may be processed outside Europe. That transfer is part of running the chat.
+## Ne toplanıyor ve neden
 
-## Leave a note
+### Sohbet: "Jonathan'ın yazılarıyla etkileşim"
 
-Notes are anonymous. The site asks for no name, no email, and no social media handle — please don't put personal details in a note. A note is stored on Cloudflare until Jonathan has read it, then it is deleted. Cevap almak istersen, <a href="#" data-contact-email data-contact-email-text>Bana e-posta gönder</a> adresinden ona yaz ya da sosyal medyadan mesaj gönder.
+Bir soru yazdığında, soru bu siteyi barındıran şirket olan Cloudflare'a gönderilir, böylece onun yapay zekâsı Jonathan'ın yayımlanmış yazılarına bakıp bir cevap hazırlayabilir. Cevap yalnızca onun yazılarından gelir ve geldiği yazının bağlantısını taşır.
 
-## What is not collected
+- Sorunun kendisi saklanmaz. Tek yönlü bir koda (bir hash) dönüştürülür, böylece biri aynı soruyu tekrar sorarsa site kayıtlı bir cevabı bulabilir. İyi cevaplar 7 gün saklanır, sonra silinir.
+- Sohbet Jonathan değil. Bir yapay zekâ ve hata yapabilir.
+- Sohbetin hukuki dayanağı meşru menfaattir: yayımlanmış yazılardan soruları cevaplayan küçük bir site işletmek.
 
-- No cookies, no tracking, no analytics, no advertising.
-- Search runs entirely on your own device.
-- A YouTube video only loads if you tap play on it.
-- The site never asks for your email address or social media details. If you ever see a form here asking for them, it is not part of this site — please don't fill it in.
+### Oturum açma
 
-## Your rights under European law (GDPR)
+Google, Instagram, LINE ya da e-posta ile oturum açabilirsin, böylece Jonathan bir hikâyenin, önerinin ya da yorumun gerçekten senden geldiğini bilir. Oturum açmak yalnızca kim olduğunu kanıtlar. Senin adına hiçbir şey paylaşamaz, mesajlarını okuyamaz ya da özel bir şey göremez. Oturum açma bilgilerin seninle Google, Instagram, LINE ya da e-posta sağlayıcın arasında kalır — bu site şifreni asla görmez.
 
-This site follows the EU's General Data Protection Regulation (GDPR) as its standard, wherever you are in the world.
+Her oturum açma yöntemi siteyle ne paylaşır:
 
-- You can ask what personal data, if any, this site holds about you.
-- You can ask for it to be corrected or deleted, or for its use to be restricted.
-- You can object to its use, and you can complain to your local data protection authority. Jonathan lives in Spain, where the authority is the AEPD (Agencia Española de Protección de Datos).
-- Because the site stores nothing that identifies you — no accounts, no emails, no tracking — there is usually nothing to show or delete. Ask anyway and he will answer.
+- Google: adını ve doğrulanmış e-posta adresini.
+- Instagram: kullanıcı adını ve profil bağlantını.
+- LINE: LINE'da gösterdiğin adı.
+- E-posta: e-posta adresini; yalnızca bir kez çalışan ve 10 dakika sonra süresi dolan 6 haneli bir kodla kanıtlanır.
 
-The legal basis for the chat is legitimate interest: running a small site that answers questions from published writing. The legal basis for a note is your consent: you choose to leave one.
+Oturum açma bilgilerin yalnızca Jonathan'a gösterilir, böylece gerçek olduğunu doğrulayıp sana cevap verebilir. Sitede asla herkese açık gösterilmezler. Hukuki dayanak senin rızandır: oturum açmayı sen seçersin.
 
-## Children
+### Hikâyeni paylaş (röportajlar)
+
+Hikâyeni paylaşırsan, site adını, sosyal medya profil bağlantını ve üç soruya verdiğin cevapları saklar; ayrıca hangi oturum açma yöntemini kullandığın ve profilinin doğrulanıp doğrulanmadığı notunu da. Jonathan önce kontrol edip seninle konuşmadan hiçbir şey yayımlanmaz. Hukuki dayanak senin rızandır: göndermeyi sen seçersin ve izin kutusunu işaretlersin.
+
+### Bir sanatçı öner
+
+Bir sanatçı önerirsen, site sanatçının adını ve profil bağlantısını, Jonathan'ın onunla ne yapmasını istediğini, neden onu seçtiğini ve verirsen senin adını ve bağlantını saklar. Oturum açmak gerekmez. Hukuki dayanak senin rızandır.
+
+### Bir not bırak
+
+Notlar anonimdir. Site isim, e-posta ya da sosyal medya hesabı istemez — lütfen bir nota kişisel bilgi yazma. Bir not, Jonathan okuyup silene kadar saklanır. Cevap istersen, <a href="#" data-contact-email data-contact-email-text>Bana e-posta gönder</a> adresinden ona yaz ya da sosyal medyadan mesaj gönder. Hukuki dayanak senin rızandır: not bırakmayı sen seçersin.
+
+### Yorumlar
+
+Bir yazıya yorum yaparsan, site adını, yorumunu ve eklersen sosyal medya profiline ya da bir videoya bağlantıyı saklar. Yorumlar görünmeden önce Jonathan tarafından kontrol edilir. Hukuki dayanak senin rızandır.
+
+### Arama
+
+Arama tamamen kendi cihazında çalışır. Aradığın hiçbir şey bir yere gönderilmez.
+
+### Videolar
+
+Bir YouTube videosu yalnızca üzerine dokunup oynattığında yüklenir. O zamana kadar hiçbir video yüklenmez ve YouTube'a hiçbir şey gönderilmez.
+
+## Çerezler
+
+Bu site çok az çerez kullanır. Hiçbiri seni takip etmez.
+
+| Çerez veya depolama | Ne yapar | Ne kadar saklanır |
+|---|---|---|
+| `interview_session` | Hikâyeni paylaşırken ya da yorum yaparken oturumunu açık tutar. | 1 saat |
+| `theme` (cihazında saklanır) | Açık mı koyu mu tema seçtiğini hatırlar. | Değiştirene kadar |
+| `cookie-consent` (cihazında saklanır) | Çerezleri kabul mü reddettin mi hatırlar, böylece banner tekrar sormaz. | Değiştirene kadar |
+| Google oturum açma | Yalnızca çerezleri kabul edersen: Google'ın kendi oturum açma düğmesi Google'dan yüklenir ve Google kendi çerezlerini koyabilir. [Google'ın gizlilik politikasına](https://policies.google.com/privacy) bak. | Google belirler |
+
+İlk ziyaretinde bir çerez bannerı görürsün. Yan yana iki düğmesi var: Kabul et ve Reddet. İkisi de aynı işi yapar — hile yok. Reddedersen site yine de çalışır: her şeyi okuyabilir, sohbeti kullanabilir ve Instagram, LINE ya da e-posta ile oturum açabilirsin. Yalnızca Google oturum açma düğmesi kapalı kalır, çünkü yüklenmek için Google'ın çerezlerine ihtiyacı var. Fikrini her zaman, herhangi bir sayfanın altındaki "Çerez ayarları" bağlantısıyla değiştirebilirsin.
+
+## Verilerin nerede duruyor
+
+Site, ABD'li bir şirket olan Cloudflare tarafından barındırılıyor. Sayfalar, sohbet, oturum açma ve saklanan notlar, Amerika Birleşik Devletleri ve Avrupa'daki Cloudflare ağında duruyor. E-posta oturum açma kodları, yine ABD'li bir şirket olan Resend tarafından gönderiliyor: e-postalar İrlanda'dan gönderiliyor ama Resend, e-postayı ve gönderim bilgilerini Amerika Birleşik Devletleri'nde 30 gün saklıyor. Jonathan'ın yeni notlar, hikâyeler ve öneriler hakkında aldığı e-postalar kendi Gmail hesabına gidiyor.
+
+Avrupa dışına aktarımlar, Cloudflare ve Resend'in veri işleme sözleşmelerindeki standart sözleşme maddeleriyle ve her iki şirketin de katıldığı AB–ABD Veri Gizliliği Çerçevesi ile güvence altında.
+
+## Şeyler ne kadar saklanıyor
+
+- Oturum açma oturumları: 1 saat. Oturum açma kodları: 10 dakika.
+- Sohbet cevapları: 7 gün, sonra silinir.
+- Notlar, hikâyeler, öneriler ve yorumlar: Jonathan ilgilenip silene kadar saklanır.
+- Resend'den oturum açma kodları: Resend tarafından 30 gün saklanır.
+
+## Satış ve reklam
+
+Bu site kişisel bilgilerini satmaz. Bilgilerini reklam için paylaşmaz ve bu sitede reklam yoktur. Verilerinle ilgilenen diğer tek kişiler yukarıda adı geçen hizmetlerdir (Cloudflare, Resend ve Gmail); onlar da veriyi yalnızca siteyi işletmek için işler.
+
+## Avrupa hukuku (GDPR) kapsamındaki hakların
+
+Bu site, dünyanın neresinde olursan ol, AB Genel Veri Koruma Tüzüğü'nü (GDPR) standart olarak izler.
+
+- Bu sitenin senin hakkında, varsa, hangi kişisel verileri tuttuğunu sorabilirsin.
+- Düzeltilmesini ya da silinmesini ya da kullanımının sınırlandırılmasını isteyebilirsin.
+- Bir kopyasını isteyebilir ve kullanımına itiraz edebilirsin.
+- Rızanı her zaman geri çekebilirsin — örneğin oturumu kapatarak ya da Jonathan'dan gönderdiğin şeyi silmesini isteyerek.
+- Yerel veri koruma makamına şikâyet edebilirsin. Jonathan İspanya'da yaşıyor; oradaki makam AEPD'dir (Agencia Española de Protección de Datos, aepd.es).
+
+Site çok az şey sakladığı için, gösterilecek ya da silinecek genellikle bir şey olmaz. Yine de sor, o cevap verir. Sormak için Jonathan'a <a href="#" data-contact-email data-contact-email-text>Bana e-posta gönder</a> adresinden yaz ya da [Instagram](https://www.instagram.com/jonamccallum) ya da [Threads](https://www.threads.com/@jonamccallum) üzerinden mesaj gönder.
+
+## Çocuklar
 
 Bu site 18 yaşından küçükler için değildir. İsa'ya olan inançtan bahseder, bu da dini bir içeriktir, bu yüzden yetişkinler için yazılmıştır. 18 yaşından küçüksen, lütfen burada kişisel bilgi paylaşma ve Jonathan'a yazma.
 
 İspanya'da yasa, 14 yaşından küçük bir çocuğun çevrimiçi kişisel veri paylaşmadan önce bir ebeveyn ya da vasinin onayını alması gerektiğini söyler. Bu sitenin kendi kuralı bundan daha katıdır: 18 yaşından küçüksen, bu site senin için değil.
 
-## Changes
+## Yasal bildirim
 
-This page will be updated if anything about the site changes. Last updated 21 November 2026.
+Bu kişisel bir web sitesidir. Buradaki her şey Jonathan'ın kendi yazısı ve kendi görüşleridir. Hiçbir türde profesyonel tavsiye değildir — tıbbi, hukuki, mali ya da başka türlü değil. Sohbet yalnızca onun yayımlanmış yazılarından cevap verir ve hata yapabilir. Bu sitede yanlış ya da eski bir şey varsa, ona söyle, o da düzeltsin.
+
+## Değişiklikler
+
+Site hakkında bir şey değişirse bu sayfa güncellenir. Son güncelleme 23 Kasım 2026.

@@ -106,8 +106,8 @@
 </script>
 {% endif %}
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed/">
-<link rel="preload" href="/css/style.css?v=15" as="style">
-<link rel="stylesheet" href="/css/style.css?v=15">
+<link rel="preload" href="/css/style.css?v=16" as="style">
+<link rel="stylesheet" href="/css/style.css?v=16">
 </head>
 <body>
 <a class="skip-link" href="#main">İçeriğe atla</a>
@@ -123,14 +123,22 @@
 </main>
 <footer class="site-footer">
   <p><a class="return-home" href="https://jonathanmccallum.com{{ page.url }}">Return home to Jonathan <span lang="tr">· Jonathan'a geri dön</span></a></p>
-  <p>{{ site.title }} — <a href="/feed/">RSS feed</a> · <a href="/search/">Ara</a> · <a href="/privacy/">Gizlilik</a></p>
+  <p>{{ site.title }} — <a href="/feed/">RSS feed</a> · <a href="/search/">Ara</a> · <a href="/privacy/">Gizlilik</a> · <a href="#" id="cookie-settings">Çerez ayarları</a></p>
   <p>Connect — <a href="https://www.instagram.com/jonamccallum">Instagram</a> · <a href="https://www.threads.com/@jonamccallum">Threads</a> · <a href="https://www.youtube.com/@Jonathanmccallum1">YouTube</a> · <a href="https://jonamccallum.substack.com">Substack</a> · <a href="/feed/">RSS</a></p>
   <p>Merhaba de — <a href="#" data-contact-email data-contact-email-text>Bana e-posta gönder</a></p>
   <p>Built with Eleventy, hosted on Cloudflare Pages.</p>
 </footer>
 <script src="/js/main.js?v=8" defer></script>
 <script src="/js/contact.js?v=1" defer></script>
+<script src="/js/consent.js?v=1" defer></script>
 <script src="/js/suggest.js?v=1" defer></script>
 <script src="/js/interview.js?v=1" defer></script>
+<div id="cookie-banner" class="cookie-banner" role="dialog" aria-label="Çerezler" hidden>
+  <p><strong>Çerezler.</strong> Bu site işi basit tutuyor: yalnızca kendi cihazında açık veya koyu temanısını hatırlıyor. Burada hiçbir şey seni izlemiyor. <a href="/privacy/">Gizlilik sayfasını oku</a>.</p>
+  <p class="cookie-banner__buttons">
+    <button id="cookie-accept" type="button">Kabul et</button>
+    <button id="cookie-reject" type="button">Reddet</button>
+  </p>
+</div>
 </body>
 </html>
