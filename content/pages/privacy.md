@@ -42,7 +42,9 @@ The legal basis for the chat is legitimate interest: running a small site that a
 
 ## Children
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+Bu site 18 yaşından küçükler için değildir. İsa'ya olan inançtan bahseder, bu da dini bir içeriktir, bu yüzden yetişkinler için yazılmıştır. 18 yaşından küçüksen, lütfen burada kişisel bilgi paylaşma ve Jonathan'a yazma.
+
+İspanya'da yasa, 14 yaşından küçük bir çocuğun çevrimiçi kişisel veri paylaşmadan önce bir ebeveyn ya da vasinin onayını alması gerektiğini söyler. Bu sitenin kendi kuralı bundan daha katıdır: 18 yaşından küçüksen, bu site senin için değil.
 
 ## Changes
 
