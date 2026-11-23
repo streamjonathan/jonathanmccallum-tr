@@ -106,8 +106,8 @@
 </script>
 {% endif %}
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed/">
-<link rel="preload" href="/css/style.css?v=14" as="style">
-<link rel="stylesheet" href="/css/style.css?v=14">
+<link rel="preload" href="/css/style.css?v=15" as="style">
+<link rel="stylesheet" href="/css/style.css?v=15">
 </head>
 <body>
 <a class="skip-link" href="#main">İçeriğe atla</a>
@@ -115,10 +115,14 @@
   <a class="site-header__title" href="/">Jonathan McCallum</a>
   <button id="theme-toggle" type="button">Koyu</button>
 </header>
+<nav class="return-home-bar" aria-label="English version">
+  <a class="return-home" href="https://jonathanmccallum.com{{ page.url }}">Return home to Jonathan <span lang="tr">· Jonathan'a geri dön</span></a>
+</nav>
 <main id="main">
 {{ content | safe }}
 </main>
 <footer class="site-footer">
+  <p><a class="return-home" href="https://jonathanmccallum.com{{ page.url }}">Return home to Jonathan <span lang="tr">· Jonathan'a geri dön</span></a></p>
   <p>{{ site.title }} — <a href="/feed/">RSS feed</a> · <a href="/search/">Ara</a> · <a href="/privacy/">Gizlilik</a></p>
   <p>Connect — <a href="https://www.instagram.com/jonamccallum">Instagram</a> · <a href="https://www.threads.com/@jonamccallum">Threads</a> · <a href="https://www.youtube.com/@Jonathanmccallum1">YouTube</a> · <a href="https://jonamccallum.substack.com">Substack</a> · <a href="/feed/">RSS</a></p>
   <p>Merhaba de — <a href="#" data-contact-email data-contact-email-text>Bana e-posta gönder</a></p>
