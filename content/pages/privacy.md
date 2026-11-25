@@ -6,7 +6,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 # Gizlilik
 
-Bu site, İspanya'nın Getaria kentinde yaşayan Jonathan McCallum tarafından işletiliyor. Küçük bir kişisel site: yazılar ve bu yazılardan cevap veren bir sohbet. Burada hesap açmak yok, takip yok, reklam yok ve satılık hiçbir şey yok. Dünyanın neresinde olursan ol, tüm ziyaretçiler için Avrupa gizlilik hukukuna (GDPR) uyuyor.
+Bu site, Bask Bölgesi'nde yaşayan Jonathan McCallum tarafından işletiliyor. Küçük bir kişisel site: yazılar ve bu yazılardan cevap veren bir sohbet. Burada hesap açmak yok, takip yok, reklam yok ve satılık hiçbir şey yok. Dünyanın neresinde olursan ol, tüm ziyaretçiler için Avrupa gizlilik hukukuna (GDPR) uyuyor.
 
 Bu sayfadaki herhangi bir şey ya da kişisel verilerin hakkında sormak istersen, Jonathan'a <a href="#" data-contact-email data-contact-email-text>Bana e-posta gönder</a> adresinden yaz. Ona [Instagram](https://www.instagram.com/jonamccallum) ya da [Threads](https://www.threads.com/@jonamccallum) üzerinden de mesaj gönderebilirsin.
 
